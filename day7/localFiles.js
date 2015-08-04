@@ -1,0 +1,1 @@
+﻿var robinHood = document.getElementById("robinHood").textContent;

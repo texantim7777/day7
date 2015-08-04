@@ -67,6 +67,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="day7.js" />
+    <Content Include="localFiles.js" />
+    <Content Include="parsing.js" />
     <Content Include="robinHood.js" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
