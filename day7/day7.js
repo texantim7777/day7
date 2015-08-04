@@ -82,3 +82,7 @@
 //console.log(a.replace(/e/g, "E"));
 //a = a.replace(/e/g, "E");
 //console.log(a);
+
+function parseText(robinHood) {
+    console.log(robinHood);
+}

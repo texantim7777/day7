@@ -1,5 +1,4 @@
-﻿var robinHood;
-
+﻿var robinHood = "";
 var reader = new XMLHttpRequest() || new ActiveXObject('MSXML2.XMLHTTP');
 
 function loadFile() {
@@ -10,7 +9,7 @@ function loadFile() {
 
 function displayContents() {
     if (reader.readyState == 4) {
-        robinHood = reader.responseText;
+        parseText(reader.responseText);
     }
 }
 
