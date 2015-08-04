@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="day7.js" />
+    <Content Include="files.js" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
